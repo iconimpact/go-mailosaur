@@ -7,7 +7,7 @@ Feel free to add new functions or improve the existing code.
 ## Install
 
 ```bash
-go get github.com/iconmobile-dev/go-mailosaur/v1
+go get github.com/iconmobile-dev/go-mailosaur
 ```
 
 ## Documentation and usage examples
