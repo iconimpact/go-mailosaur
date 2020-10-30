@@ -12,7 +12,7 @@
    limitations under the License.
 */
 
-package v1
+package mailosaur
 
 import (
 	"encoding/json"
